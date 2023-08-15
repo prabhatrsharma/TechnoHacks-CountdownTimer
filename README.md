@@ -41,6 +41,7 @@ Mr. Sandip Gavit
 Please review and comment with your worthy suggestions.
 
 Thank You!!
+
 -Prabhat Sharma
 
-![CountdownTimer](https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer/assets/118990267/9d7714fd-db03-4f26-87be-d620e59e05e5)
+![CountdownTimer](https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer/assets/118990267/03c8f84a-ff22-435b-b114-113d2b1c3bf7)
