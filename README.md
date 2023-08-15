@@ -44,5 +44,4 @@ Thank You!!
 
 -Prabhat Sharma
 
-![CountdownTimer](https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer/assets/118990267/84b9d88c-4fb4-4fa5-96d1-d9fa1ad18b93)
-
+![image](https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer/assets/118990267/2029c68e-4dd2-45c8-8d42-357717e0ea0f)
