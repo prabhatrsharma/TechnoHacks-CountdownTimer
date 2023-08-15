@@ -21,7 +21,7 @@ IDE: VSCODE
 
 GitHub Repository Link:https://github.com/prabhatrsharma/TechnoHacks-CountdownTimer.git
 
-Hosted Website Link: https://prabharsharma.github.io/TechnoHacks-CountdownTimer/
+Hosted Website Link: [https://prabharsharma.github.io/TechnoHacks-CountdownTimer/](https://prabhatrsharma.github.io/TechnoHacks-CountdownTimer/)
 
 To know MORE about TECHNOHACKS EDUTECH Website: 
 
